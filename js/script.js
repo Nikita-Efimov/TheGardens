@@ -1,5 +1,3 @@
-start_()
-
 function start_()
 {
 	try {
