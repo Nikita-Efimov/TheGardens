@@ -1,4 +1,4 @@
-// start_()
+start_()
 
 function start_()
 {
